@@ -1,0 +1,6 @@
+com\mycompany\strategy\Transportadora.class
+com\mycompany\strategy\EntregaExpressa.class
+com\mycompany\strategy\EntregaEconomica.class
+com\mycompany\strategy\EntregaNormal.class
+com\mycompany\strategy\EstrategiaCalculoCustoEnvio.class
+com\mycompany\strategy\Main.class
